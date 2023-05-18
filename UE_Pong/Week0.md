@@ -21,3 +21,11 @@ Game engines are tools and frameworks that help make game development easier. Ju
 ![](./img/EpicLauncher.jpeg)
 
 Depending on your internet speed, it may take several minutes or several hours to download Unreal Engine.
+
+4. After Unreal is installed, open it up and create a new project (Games > Blank). Name it "Pong"
+
+![](./img/NewProject.jpeg)
+
+5. Wait... The first time Unreal opens it is going to "Compile Shaders". On some machines this can take up to an hour. The good news is that it only takes a long time the first time you open or start a new project, as the compiled results are cached on your internal storage.
+
+![](./img/CompilingShaders.jpeg)
