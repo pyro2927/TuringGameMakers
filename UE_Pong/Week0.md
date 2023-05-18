@@ -16,3 +16,8 @@ Game engines are tools and frameworks that help make game development easier. Ju
 
 1. Create an [Unreal account](https://www.unrealengine.com/en-US) if needed (if you've made an account to play Fortnite you can use that)
 2. [Download the Epic Games Launcher](https://www.unrealengine.com/en-US/download)
+3. Install Unreal Engine 5.2 by using the launcher (click "Unreal Engine" on the left, "Library" at the top, the "+" next to "Engine Versions", and finally "Install" within the "5.2.0" box that appears)
+
+![](./img/EpicLauncher.jpeg)
+
+Depending on your internet speed, it may take several minutes or several hours to download Unreal Engine.
