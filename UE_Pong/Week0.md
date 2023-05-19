@@ -2,7 +2,6 @@
 
 ## Goals
 
-* Understand the basics of a game engine
 * Have Unreal installed and setup on your machine
 * Have a blank project ready to go for Week 1
 
