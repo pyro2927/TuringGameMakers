@@ -29,6 +29,10 @@ Depending on your internet speed, it may take several minutes or several hours t
 
 ![](./img/CompilingShaders.jpeg)
 
+Once you see an empty plane with some mountains in the background, you're finished!
+
+![](./img/BlankUnreal.jpeg)
+
 ## Bonus Levels
 
 ### Source Control
