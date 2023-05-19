@@ -29,3 +29,9 @@ Depending on your internet speed, it may take several minutes or several hours t
 5. Wait... The first time Unreal opens it is going to "Compile Shaders". On some machines this can take up to an hour. The good news is that it only takes a long time the first time you open or start a new project, as the compiled results are cached on your internal storage.
 
 ![](./img/CompilingShaders.jpeg)
+
+## Bonus Levels
+
+### Source Control
+
+Projects in the gaming industry tend to have large binary files, which git does not traditionally handle well. While it is true that [git-lfs](https://git-lfs.com/) exists, it is a relatively recent development. Many studios use [Perforce](https://www.perforce.com/) (also known as "Helix Core"). There aren't many good resources comparing git and Perforce online, but [this Stackoverflow answer](https://stackoverflow.com/a/2778344) does a decent job.
